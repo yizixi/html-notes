@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "name": "learn-html",
+    "data": {
+        "html-style-guide": [
+            {
+                "title": "Google HTML/CSS Style Guide",
+                "link": "https://google.github.io/styleguide/htmlcssguide.html",
+                "info": "Google 推出的HTML/CSS 代码风格规范指南。列罗出常用语法的一些规范，认可度高。这是英文版本。",
+                "translation": "https://segmentfault.com/a/1190000007023192"
+            }
+        ],
+        "html-system-tutorial":[
+            {
+                "title": "W3School html",
+                "link": "http://www.w3school.com.cn/html/index.asp",
+                "info": "w3School：较多人参考的 HTML 文档"
+            }
+        ]
+    }
+}
